@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning<br><br>>Reach out to me at : shivanandmeguer@gmail.com<br>
-
+Check my resume : https://drive.google.com/file/d/1L9CM7E074vvExzJnfteLFK0C2shqsseM/view?usp=drivesdk
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivanand-megur-931023300) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanandmeguer@gmail.com) 
